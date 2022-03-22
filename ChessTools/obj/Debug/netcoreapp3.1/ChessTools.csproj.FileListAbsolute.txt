@@ -1,0 +1,9 @@
+/Users/camillevanginkel/Projects/ChessBrowser/ChessBrowser/ChessTools/bin/Debug/netcoreapp3.1/ChessTools.deps.json
+/Users/camillevanginkel/Projects/ChessBrowser/ChessBrowser/ChessTools/bin/Debug/netcoreapp3.1/ChessTools.dll
+/Users/camillevanginkel/Projects/ChessBrowser/ChessBrowser/ChessTools/bin/Debug/netcoreapp3.1/ChessTools.pdb
+/Users/camillevanginkel/Projects/ChessBrowser/ChessBrowser/ChessTools/obj/Debug/netcoreapp3.1/ChessTools.GeneratedMSBuildEditorConfig.editorconfig
+/Users/camillevanginkel/Projects/ChessBrowser/ChessBrowser/ChessTools/obj/Debug/netcoreapp3.1/ChessTools.AssemblyInfoInputs.cache
+/Users/camillevanginkel/Projects/ChessBrowser/ChessBrowser/ChessTools/obj/Debug/netcoreapp3.1/ChessTools.AssemblyInfo.cs
+/Users/camillevanginkel/Projects/ChessBrowser/ChessBrowser/ChessTools/obj/Debug/netcoreapp3.1/ChessTools.csproj.CoreCompileInputs.cache
+/Users/camillevanginkel/Projects/ChessBrowser/ChessBrowser/ChessTools/obj/Debug/netcoreapp3.1/ChessTools.dll
+/Users/camillevanginkel/Projects/ChessBrowser/ChessBrowser/ChessTools/obj/Debug/netcoreapp3.1/ChessTools.pdb

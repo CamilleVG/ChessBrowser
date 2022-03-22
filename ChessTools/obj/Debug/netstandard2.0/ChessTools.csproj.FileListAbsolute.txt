@@ -1,0 +1,10 @@
+/Users/camillevanginkel/Projects/ChessApplication/ChessBrowser/ChessTools/bin/Debug/netstandard2.0/ChessTools.deps.json
+/Users/camillevanginkel/Projects/ChessApplication/ChessBrowser/ChessTools/bin/Debug/netstandard2.0/ChessTools.dll
+/Users/camillevanginkel/Projects/ChessApplication/ChessBrowser/ChessTools/bin/Debug/netstandard2.0/ChessTools.pdb
+/Users/camillevanginkel/Projects/ChessApplication/ChessBrowser/ChessTools/obj/Debug/netstandard2.0/ChessTools.csproj.AssemblyReference.cache
+/Users/camillevanginkel/Projects/ChessApplication/ChessBrowser/ChessTools/obj/Debug/netstandard2.0/ChessTools.GeneratedMSBuildEditorConfig.editorconfig
+/Users/camillevanginkel/Projects/ChessApplication/ChessBrowser/ChessTools/obj/Debug/netstandard2.0/ChessTools.AssemblyInfoInputs.cache
+/Users/camillevanginkel/Projects/ChessApplication/ChessBrowser/ChessTools/obj/Debug/netstandard2.0/ChessTools.AssemblyInfo.cs
+/Users/camillevanginkel/Projects/ChessApplication/ChessBrowser/ChessTools/obj/Debug/netstandard2.0/ChessTools.csproj.CoreCompileInputs.cache
+/Users/camillevanginkel/Projects/ChessApplication/ChessBrowser/ChessTools/obj/Debug/netstandard2.0/ChessTools.dll
+/Users/camillevanginkel/Projects/ChessApplication/ChessBrowser/ChessTools/obj/Debug/netstandard2.0/ChessTools.pdb
